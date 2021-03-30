@@ -18,6 +18,6 @@ My name is Marius Băncilă. I'm a developer, architect, author, speaker passion
 - [Learn C# Programming](https://mariusbancila.ro/blog/2020/05/05/my-book-learn-cs-programming-has-been-published/) (ISBN 9781789805864)
 
 💬 How to reach me:
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mariusbancila)
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariusbancila/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mariusbancila) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariusbancila/)
 
