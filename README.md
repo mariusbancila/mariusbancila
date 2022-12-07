@@ -13,12 +13,13 @@ My name is Marius Băncilă. I'm a developer, architect, author, speaker passion
 
 ### 📚 My books:
 
+- [Template Metaprogramming with C++](https://mariusbancila.ro/blog/2022/08/19/my-book-template-metaprogramming-with-cpp-is-now-available/) (ISBN 9781803243450)
 - [Modern C++ Programming Cookbook, 2nd Edition](https://mariusbancila.ro/blog/2020/09/16/the-2nd-edition-of-modern-cpp-programming-cookbook-has-been-published/) (ISBN 9781800208988)
 - [Modern C++ Programming Cookbook](https://mariusbancila.ro/blog/2017/05/09/my-book-modern-cpp-programming-cookbook-has-been-published/) (ISBN 9781786465184)
 - [The Modern C++ Challenge](https://mariusbancila.ro/blog/2018/05/25/my-book-the-modern-c-challenge-has-been-published/) (ISBN 9781788993869)
 - [Learn C# Programming](https://mariusbancila.ro/blog/2020/05/05/my-book-learn-cs-programming-has-been-published/) (ISBN 9781789805864)
 
-<img src="https://mariusbancila.ro/blog/wp-content/uploads/2020/09/cookbook2ndlarge.jpg" alt="Modern C++ Programming Cookbook, 2nd Edition" width="150"  /> <img src="https://mariusbancila.ro/blog/wp-content/uploads/2018/05/cppchallenge.jpg" alt="The Modern C++ Challenge" width="150"  /> <img src="https://mariusbancila.ro/blog/wp-content/uploads/2020/04/learncsprogramming.jpg" alt="Learn C# Programming" width="150"  /> <img src="https://mariusbancila.ro/blog/wp-content/uploads/2017/05/mcpccover-768x948.png" alt="Modern C++ Programming Cookbook, 1st Edition" width="150"  />
+<img src="https://mariusbancila.ro/blog/wp-content/uploads/2022/08/templatesbookcover.jpg" width="150" alt="Template Metaprogramming with C++"> <img src="https://mariusbancila.ro/blog/wp-content/uploads/2020/09/cookbook2ndlarge.jpg" alt="Modern C++ Programming Cookbook, 2nd Edition" width="150"  /> <img src="https://mariusbancila.ro/blog/wp-content/uploads/2018/05/cppchallenge.jpg" alt="The Modern C++ Challenge" width="150"  /> <img src="https://mariusbancila.ro/blog/wp-content/uploads/2020/04/learncsprogramming.jpg" alt="Learn C# Programming" width="150"  /> <img src="https://mariusbancila.ro/blog/wp-content/uploads/2017/05/mcpccover-768x948.png" alt="Modern C++ Programming Cookbook, 1st Edition" width="150"  />
 
 ### 💬 How to reach me:
 
