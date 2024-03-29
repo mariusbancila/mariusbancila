@@ -14,6 +14,7 @@ My name is Marius Băncilă. I'm a developer, architect, author, speaker passion
 ### 📚 My books:
 
 - [Template Metaprogramming with C++](https://mariusbancila.ro/blog/2022/08/19/my-book-template-metaprogramming-with-cpp-is-now-available/) (ISBN 9781803243450)
+- [Modern C++ Programming Cookbook, 3rd Edition](https://mariusbancila.ro/blog/2024/03/04/modern-cpp-programming-cookbook-third-edition/) (ISBN 9781835080542)
 - [Modern C++ Programming Cookbook, 2nd Edition](https://mariusbancila.ro/blog/2020/09/16/the-2nd-edition-of-modern-cpp-programming-cookbook-has-been-published/) (ISBN 9781800208988)
 - [Modern C++ Programming Cookbook](https://mariusbancila.ro/blog/2017/05/09/my-book-modern-cpp-programming-cookbook-has-been-published/) (ISBN 9781786465184)
 - [The Modern C++ Challenge](https://mariusbancila.ro/blog/2018/05/25/my-book-the-modern-c-challenge-has-been-published/) (ISBN 9781788993869)
