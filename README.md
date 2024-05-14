@@ -5,7 +5,7 @@ My name is Marius Băncilă. I'm a developer, architect, author, speaker passion
 [![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)]() [![CS](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)]() [![DOTNET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)]() [![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=flat&logo=microsoft&logoColor=white)]()
 
 ### 👨‍💻 What I do is:
-- ✍️ blog at [https:\\mariusbancila.ro](https:\\mariusbancila.ro)
+- ✍️ blog at [https://mariusbancila.ro](https://mariusbancila.ro)
 - 📚 write books
 - 🧰 contribute to open-source projects
 - 📢 speak at local conferences
